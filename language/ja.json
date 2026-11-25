@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "テンプレートプラグイン"
+  },
+  "Name": "テンプレートプラグイン",
+  "Description": "テンプレートプラグイン",
+  "Category": "テンプレートプラグイン",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "テンプレートプラグイン",
+    "Name": "テンプレートプラグイン"
+  }
+}

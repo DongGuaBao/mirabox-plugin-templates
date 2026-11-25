@@ -1,0 +1,11 @@
+{
+    "include": ["src/web/**/*", "src/share/**/*"],
+    "compilerOptions": {
+        "composite": true,
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "bundler",
+        "types": ["vite/client", "mirabox-plugin-sdk/types"],
+        "lib": ["ESNext", "DOM"]
+    }
+}

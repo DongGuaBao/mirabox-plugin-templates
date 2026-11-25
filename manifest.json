@@ -1,0 +1,55 @@
+{
+    "$schema": "https://schemas.key123.vip/streamdock/plugins/manifest.json",
+    "Actions": [
+        {
+            "UUID": "com.mirabox.streamdock.templates.action1",
+            "Icon": "images/icon.png",
+            "state": 0,
+            "States": [
+                {
+                    "Title": "状态0",
+                    "Image": "images/icon.png"
+                },
+                {
+                    "Title": "状态1",
+                    "Image": "images/icon.png"
+                }
+            ],
+            "Settings": {
+                "ActionGeometry": {
+                    "width": 462,
+                    "height": 462
+                },
+                "template": "MiraBox",
+                "color": "#36a5e1"
+            },
+            "Controllers": ["Keypad", "Information", "Knob"],
+            "Name": "模板动作",
+            "Tooltip": "模板动作",
+            "PropertyInspectorPath": "index.html"
+        }
+    ],
+    "Version": "1.0.auto",
+    "Name": "模板插件",
+    "Icon": "images/icon.png",
+    "CategoryIcon": "images/icon.png",
+    "Category": "模板插件",
+    "Description": "模板插件",
+    "CodePath": "plugin/index.js",
+    "SDKVersion": 3,
+    "Author": "MiraBox",
+    "URL": "https://mirabox.net/home",
+    "OS": [
+        {
+            "Platform": "mac",
+            "MinimumVersion": "10.11"
+        },
+        {
+            "Platform": "windows",
+            "MinimumVersion": "7"
+        }
+    ],
+    "Nodejs": {
+        "Version": "20"
+    }
+}

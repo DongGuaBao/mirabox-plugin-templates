@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "Complemento de plantilla"
+  },
+  "Name": "Complemento de plantilla",
+  "Description": "Complemento de plantilla",
+  "Category": "Complemento de plantilla",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "Complemento de plantilla",
+    "Name": "Complemento de plantilla"
+  }
+}

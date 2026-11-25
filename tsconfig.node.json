@@ -1,0 +1,13 @@
+{
+    "include": ["./src/node/**/*.ts", "src/share/**/*"],
+    "compilerOptions": {
+        "composite": true,
+        "module": "nodenext",
+        "moduleDetection": "force",
+        "moduleResolution": "nodenext",
+        "target": "esnext",
+        "types": ["mirabox-plugin-sdk/types", "@types/node"],
+        "skipLibCheck": true,
+        "esModuleInterop": true
+    }
+}

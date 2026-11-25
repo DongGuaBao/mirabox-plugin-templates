@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "Wtyczka szablonu"
+  },
+  "Name": "Wtyczka szablonu",
+  "Description": "Wtyczka szablonu",
+  "Category": "Wtyczka szablonu",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "Wtyczka szablonu",
+    "Name": "Wtyczka szablonu"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "範本外掛程式"
+  },
+  "Name": "範本外掛程式",
+  "Description": "範本外掛程式",
+  "Category": "範本外掛程式",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "範本外掛程式",
+    "Name": "範本外掛程式"
+  }
+}

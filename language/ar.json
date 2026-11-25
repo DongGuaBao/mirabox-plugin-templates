@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "إضافة القوالب"
+  },
+  "Name": "إضافة القوالب",
+  "Description": "إضافة القوالب",
+  "Category": "إضافة القوالب",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "إضافة القوالب",
+    "Name": "إضافة القوالب"
+  }
+}

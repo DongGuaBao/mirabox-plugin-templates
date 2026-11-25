@@ -1,0 +1,9 @@
+dist/
+build/
+node_modules/
+vendor/plugin-sdk/
+.env
+worktrees/
+*.node
+.vs/
+x64/

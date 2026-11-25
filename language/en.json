@@ -1,0 +1,12 @@
+{
+    "Localization": {
+        "模板插件": "Template Plugin"
+    },
+    "Name": "Template plugin",
+    "Description": "Template plugin",
+    "Category": "Template plugin",
+    "com.mirabox.streamdock.templates.action1": {
+        "Tooltip": "Template plugin",
+        "Name": "Template plugin"
+    }
+}

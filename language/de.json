@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "Vorlagen-Plugin"
+  },
+  "Name": "Vorlagen-Plugin",
+  "Description": "Vorlagen-Plugin",
+  "Category": "Vorlagen-Plugin",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "Vorlagen-Plugin",
+    "Name": "Vorlagen-Plugin"
+  }
+}

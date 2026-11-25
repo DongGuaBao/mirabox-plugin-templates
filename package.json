@@ -1,0 +1,27 @@
+{
+    "name": "mirabox-plugin-templates",
+    "type": "module",
+    "scripts": {
+        "dev": "node ./script/dev.cjs",
+        "dev:craft": "node ./script/dev.cjs -craft",
+        "build": "node ./script/build.cjs",
+        "build:craft": "node ./script/build.cjs -craft",
+        "translate": "node ./script/translate.cjs",
+        "translate:check": "node ./script/translate.cjs --dry-run"
+    },
+    "dependencies": {
+        "mirabox-plugin-sdk": "file:vendor/mirabox-plugin-sdk-2.2.2.tgz",
+        "terser": "^5.51.2",
+        "vue": "^3.5.45"
+    },
+    "devDependencies": {
+        "@types/node": "^26.6.6",
+        "@types/ws": "^8.18.2",
+        "@vitejs/plugin-vue": "^6.0.10",
+        "vite": "^8.3.6",
+        "vite-plugin-singlefile": "^2.3.4",
+        "@vercel/ncc": "0.45.0",
+        "typescript": "~7.0.2"
+    },
+    "private": true
+}

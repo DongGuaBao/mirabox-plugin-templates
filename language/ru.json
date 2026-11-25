@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "Плагин шаблонов"
+  },
+  "Name": "Плагин шаблонов",
+  "Description": "Плагин шаблонов",
+  "Category": "Плагин шаблонов",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "Плагин шаблонов",
+    "Name": "Плагин шаблонов"
+  }
+}

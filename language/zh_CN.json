@@ -1,0 +1,12 @@
+{
+    "Localization": {
+        "模板插件": "模板插件"
+    },
+    "Name": "模板插件",
+    "Description": "模板插件",
+    "Category": "模板插件",
+    "com.mirabox.streamdock.templates.action1": {
+        "Tooltip": "模板插件",
+        "Name": "模板插件"
+    }
+}

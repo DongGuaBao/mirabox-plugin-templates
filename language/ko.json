@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "템플릿 플러그인"
+  },
+  "Name": "템플릿 플러그인",
+  "Description": "템플릿 플러그인",
+  "Category": "템플릿 플러그인",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "템플릿 플러그인",
+    "Name": "템플릿 플러그인"
+  }
+}

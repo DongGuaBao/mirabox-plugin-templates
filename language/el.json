@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "Πρόσθετο προτύπου"
+  },
+  "Name": "Πρόσθετο προτύπου",
+  "Description": "Πρόσθετο προτύπου",
+  "Category": "Πρόσθετο προτύπου",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "Πρόσθετο προτύπου",
+    "Name": "Πρόσθετο προτύπου"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Localization": {
+    "模板插件": "Plugin modello"
+  },
+  "Name": "Plugin modello",
+  "Description": "Plugin modello",
+  "Category": "Plugin modello",
+  "com.mirabox.streamdock.templates.action1": {
+    "Tooltip": "Plugin modello",
+    "Name": "Plugin modello"
+  }
+}
